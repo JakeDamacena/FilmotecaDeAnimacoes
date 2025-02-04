@@ -30,6 +30,7 @@ Adoramos receber novas ideias e sugestões! Se você quiser adicionar mais filme
 
 * **Base de dados limitada:** Por enquanto, nossa base de dados ainda é um pouco pequena, mas estamos trabalhando para adicioná-la mais filmes.
 * **Bugs:** Como todo software, podem existir alguns bugs. Se você encontrar algum, por favor, nos avise!
+* Projeto para fins educativos desenvolvido durante a Imersão Dev Google Gemini, uma parceria entre o Google e a Alura, realizada em setembro de 2024.
 
 **Divirta-se!**
 
