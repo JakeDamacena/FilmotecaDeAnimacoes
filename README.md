@@ -1,4 +1,4 @@
-## ✨ Encontre seus filmes de animação favoritos! ✨
+## FILMOTECA: Encontre seus filmes de animação favoritos!
 
 
 ### 💻 O que essa aplicação faz?
